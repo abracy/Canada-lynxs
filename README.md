@@ -1,2 +1,4 @@
-# Canada-lynxs
-This site is a student made project about Canada lynxs.
+#                                                       Canada-lynxs
+
+This site is a student made project about Canada Lynxs.
+
